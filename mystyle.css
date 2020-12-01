@@ -1,0 +1,61 @@
+body {
+  display: flex;
+  justify-content: center;
+  background: lightblue;
+}
+
+#zodiac{
+  position: relative;
+  top: 150px;
+  height: 400px;
+  width: 500px;
+}
+
+#libra{
+  background: lightyellow;
+  padding: 20px;
+  margin-bottom: 15px;
+}
+
+#gemini {
+  background: lightyellow;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+#virgo {
+  background: lightyellow;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+#scorpio {
+  background: lightyellow;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+#pisces {
+  background: lightyellow;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+ul {
+  position: relative;
+  margin-bottom: 12px;
+  list-style-type: none;
+  padding: 0px;
+  display: flex;
+  justify-content: left;
+}
+
+a {
+  text-decoration: none;
+  background: lightgrey;
+  padding: 12px;
+}
+
+a:hover {
+  background-color: lightyellow;
+}
